@@ -1,4 +1,3 @@
-[![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQFI6sgPMkIFFQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1703941913829?e=1734566400&v=beta&t=ZBwXpgOclhi3n3asYDk1y-3cASLXv_y5LJnS0oLctgE)](https://www.linkedin.com/in/mahtoliapankaj/)
 <h1 align="center">Hi 👋, I'm Pankaj Mahtolia</h1>
 <h3 align="center">A passionate Full Stack developer from Haldwani-Uttarakhand, India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
