@@ -1,4 +1,4 @@
-[![LeetCode Excellence](https://github.com/pankajmahtolia/PankajMahtolia/blob/main/Assets/LeetCode-Excellence.png)](https://www.linkedin.com/in/mahtoliapankaj/)
+[![LeetCode Excellence](https://github.com/pankajmahtolia/PankajMahtolia/blob/main/Assets/LeetCode-Excellence.png)](https://leetcode.com/u/_pankajMahtolia/)
 <h1 align="center">Hi 👋, I'm Pankaj Mahtolia</h1>
 <h3 align="center">A passionate Full Stack developer from Haldwani-Uttarakhand, India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
