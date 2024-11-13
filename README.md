@@ -38,7 +38,8 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
     </a>&nbsp;&nbsp;
     <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-    <img src="https://img.icons8.com/ios-filled/50/000000/express-js.png" alt="Express.js" width="40" height="40" style="background-color: white; padding: 5px; border-radius: 5px;"/>
+    <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40" style="background-color: white; padding: 5px; border-radius: 5px;"/>
     </a>&nbsp;&nbsp;
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
