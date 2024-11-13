@@ -3,11 +3,9 @@
 <h3 align="center">A passionate Full Stack developer from Haldwani-Uttarakhand, India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mshandev&label=Profile%20views&color=0e75b6&style=flat" alt="mshandev" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pankajmahtolia&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
 
-- 🔭 I’m currently working on **SAMSUNG SDS**
-
-- 🌱 I’m currently learning ****
+- 🔭 I’m currently working in **SAMSUNG SDS** as a **Software Engineer**
 
 - 💬 Ask me about **DSA, Spring Boot, MERN, SQL, LLD, HLD**
 
@@ -15,7 +13,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/mahtoliapankaj/](https://www.linkedin.com/in/mahtoliapankaj/)
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ Fun fact ** My code runs perfectly... until someone else tries it. **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
